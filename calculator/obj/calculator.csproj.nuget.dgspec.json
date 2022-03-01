@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\helloWorld\\helloWorld.csproj": {}
+    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\calculator\\calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\helloWorld\\helloWorld.csproj": {
+    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\calculator\\calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\helloWorld\\helloWorld.csproj",
-        "projectName": "helloWorld",
-        "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\helloWorld\\helloWorld.csproj",
+        "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\calculator\\calculator.csproj",
+        "projectName": "calculator",
+        "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\calculator\\calculator.csproj",
         "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\helloWorld\\obj\\",
+        "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\calculator\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"
