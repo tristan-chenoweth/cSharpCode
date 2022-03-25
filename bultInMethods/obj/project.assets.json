@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj",
-      "projectName": "cSharpCode",
-      "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj",
+      "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\bultInMethods\\bultInMethods.csproj",
+      "projectName": "bultInMethods",
+      "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\bultInMethods\\bultInMethods.csproj",
       "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\obj\\",
+      "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\bultInMethods\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"

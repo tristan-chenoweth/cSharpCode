@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj": {}
+    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\usingDocumentation\\usingDocumentation.csproj": {}
   },
   "projects": {
-    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj": {
+    "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\usingDocumentation\\usingDocumentation.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj",
-        "projectName": "cSharpCode",
-        "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\cSharpCode.csproj",
+        "projectUniqueName": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\usingDocumentation\\usingDocumentation.csproj",
+        "projectName": "usingDocumentation",
+        "projectPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\usingDocumentation\\usingDocumentation.csproj",
         "packagesPath": "C:\\Users\\trist\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\obj\\",
+        "outputPath": "C:\\Users\\trist\\Desktop\\codeFolder\\C#\\cSharpCode\\usingDocumentation\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\trist\\AppData\\Roaming\\NuGet\\NuGet.Config"
